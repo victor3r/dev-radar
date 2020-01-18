@@ -12,8 +12,9 @@ DevRadar
 </p>
 
 <div>
-  <img src="https://i.ibb.co/GJfb2X4/web.gif" alt="demo-web" height="425">
-  <img src="https://i.ibb.co/zHbFDyd/mobile.gif" alt="demo-mobile" height="425">
+  <img src="./images/web.jpeg" height="425">
+  <img src="./images/mapa.jpeg" height="425">
+  <img src="./images/perfil.jpeg" height="425">
 </div>
 
 <hr />
