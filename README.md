@@ -52,11 +52,8 @@ This app features all the latest tools and practices in mobile development!
 
 1. Move yourself to the mobile folder: `cd mobile`
 2. Run `yarn` to install dependencies<br />
-3. Run `react-native run-ios` (or `run-android` if your prefer) to start the mobile app
-
-Note: If you choose to start the mobile app in the android emulator, you will have to start the emulator before using
-the `run-android` command.
-
+3. Run `yarn start` to start the mobile app
+4. Download the [Expo](https://expo.io/learn) app and scan the QR code that appears on the screen
 
 ## License
 
