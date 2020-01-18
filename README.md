@@ -11,10 +11,11 @@ DevRadar
   </a>
 </p>
 
-  <img src="./images/web.jpeg" height="425">
-  <img align="center" src="./images/mapa.jpeg" height="425">
-  <img align="center" src="./images/perfil.jpeg" height="425">
-
+ <img src="./images/web.jpeg" height="425">
+ <p align="center>
+  <img src="./images/mapa.jpeg" height="425">
+  <img src="./images/perfil.jpeg" height="425">
+</p>
 <hr />
 
 ## Features
