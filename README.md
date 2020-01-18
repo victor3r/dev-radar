@@ -14,8 +14,8 @@ DevRadar
 <div>
   <img src="./images/web.jpeg" height="425">
   <p align="center">
-    <img src="./images/mapa.jpeg" height="425">
-    <img src="./images/perfil.jpeg" height="425">
+    <img hspace="70" src="./images/mapa.jpeg" height="425">
+    <img hspace="70" src="./images/perfil.jpeg" height="425">
   </p> 
  </div> 
 <hr />
