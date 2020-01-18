@@ -29,6 +29,7 @@ This app features all the latest tools and practices in mobile development!
 - 💹 **Node Js** — A web framework for Node Js
 - 📄 **MongoDB** — A cross-platform and open-source document-oriented database
 - ♻️ **Socket IO** — A library for realtime web applications 
+- :iphone: **Expo** —  A tool used in mobile development with React Native that allows easy access to the device’s native API’s
 
 ## Getting started
 
