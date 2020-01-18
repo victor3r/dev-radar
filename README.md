@@ -13,7 +13,7 @@ DevRadar
 
 <div>
   <img src="./images/web.jpeg" height="425">
-  <img align="right" src="./images/mapa.jpeg" height="425">
+  <img align="left" src="./images/mapa.jpeg" height="425">
   <img align="right" src="./images/perfil.jpeg" height="425">
 </div>
 
