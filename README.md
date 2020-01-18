@@ -11,10 +11,10 @@ DevRadar
   </a>
 </p>
 
-<div>
+<div style="text-align:center">
   <img src="./images/web.jpeg" height="425">
-  <img style="margin-left:500px" src="./images/mapa.jpeg" height="425">
-  <img style="margin-left:50px" src="./images/perfil.jpeg" height="425">
+  <img src="./images/mapa.jpeg" height="425">
+  <img src="./images/perfil.jpeg" height="425">
  </div> 
 <hr />
 
