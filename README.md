@@ -13,6 +13,14 @@ DevRadar
 
 <div>
   <img src="./images/web.jpeg" height="425">
+</div>
+<div 
+  style="
+    display: flex;
+    align-items: center;
+    justify-content: center
+  "
+ >
   <img src="./images/mapa.jpeg" height="425">
   <img src="./images/perfil.jpeg" height="425">
 </div>
