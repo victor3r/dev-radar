@@ -26,7 +26,7 @@ This app features all the latest tools and practices in mobile development!
 
 - ⚛️ **React Js** — A JavaScript library for building user interfaces
 - ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
-- 💹 **Node Js** — A web framework for Node Js
+- 💹 **Node Js** — An asynchronous, open source, event-driven JavaScript interpreter
 - 📄 **MongoDB** — A cross-platform and open-source document-oriented database
 - ♻️ **Socket IO** — A library for realtime web applications 
 - :iphone: **Expo** —  A tool used in mobile development with React Native that allows easy access to the device’s native API’s
