@@ -1,5 +1,8 @@
 <h1 align="center">
 <br>
+  <img src="https://image.flaticon.com/icons/svg/660/660454.svg" alt="https://image.flaticon.com/icons/svg/2261/2261332.svg" width="120">
+<br>
+<br>
 DevRadar
 </h1>
 
