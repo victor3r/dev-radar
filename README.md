@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://image.flaticon.com/icons/svg/660/660454.svg" alt="https://image.flaticon.com/icons/svg/2261/2261332.svg" width="10%">
+  <img src="https://drive.google.com/uc?id=1xbXIVzDqwfZW6gEh2JYVpM4CEb8pjP4w" alt="DevRadar" width="10%">
 <br>
 <br>
 DevRadar
@@ -9,10 +9,10 @@ DevRadar
 <p align="center">The repository of a mobile application that allows you to find developers who use the same technologies in a nearby area and the web version where you can register them, built in an Omnistack Week</p>
 
 <div>
-  <img src="./images/web.jpeg" width="100%">
+  <img src="https://drive.google.com/uc?id=1l8PA4WNVOnggmBRluSosiGaPSE8UAivv" width="100%">
   <p align="center">
-    <img hspace="70" src="./images/mapa.jpeg" width="30%">
-    <img hspace="70" src="./images/perfil.jpeg" width="30%">
+    <img hspace="70" src="https://drive.google.com/uc?id=1VK4snmjVJCOBdvaLjq1u79GNL9tNY2ZY" width="30%">
+    <img hspace="70" src="https://drive.google.com/uc?id=1xHjw_pozx458c8Wxb_W8ohH-CqgnV8bk" width="30%">
   </p> 
  </div> 
 <hr />
