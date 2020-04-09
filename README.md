@@ -30,8 +30,8 @@ This app features all the latest tools and practices in mobile development!
 
 ## 🚀 Getting started
 
-1. Clone this repo using `git clone git@github.com:victor3r/DevRadar.git`
-2. Move yourself to the appropriate directory: `cd DevRadar`<br />
+1. Clone this repo using `git clone git@github.com:victor3r/dev-radar.git`
+2. Move yourself to the appropriate directory: `cd dev-radar`<br />
 
 ### Getting started with the backend server
 
