@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://image.flaticon.com/icons/svg/660/660454.svg" alt="https://image.flaticon.com/icons/svg/2261/2261332.svg" width="120">
+  <img src="https://image.flaticon.com/icons/svg/660/660454.svg" alt="https://image.flaticon.com/icons/svg/2261/2261332.svg" width="10%">
 <br>
 <br>
 DevRadar
@@ -15,10 +15,10 @@ DevRadar
 </p>
 
 <div>
-  <img src="./images/web.jpeg" height="425">
+  <img src="./images/web.jpeg" width="100%">
   <p align="center">
-    <img hspace="70" src="./images/mapa.jpeg" height="425">
-    <img hspace="70" src="./images/perfil.jpeg" height="425">
+    <img hspace="70" src="./images/mapa.jpeg" width="30%">
+    <img hspace="70" src="./images/perfil.jpeg" width="30%">
   </p> 
  </div> 
 <hr />
