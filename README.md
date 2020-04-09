@@ -8,12 +8,6 @@ DevRadar
 
 <p align="center">The repository of a mobile application that allows you to find developers who use the same technologies in a nearby area and the web version where you can register them, built in an Omnistack Week</p>
 
-<p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
-  </a>
-</p>
-
 <div>
   <img src="./images/web.jpeg" width="100%">
   <p align="center">
