@@ -58,7 +58,3 @@ This app features all the latest tools and practices in mobile development!
 2. Run `yarn` to install dependencies<br />
 3. Run `yarn start` to start the mobile app
 4. Download the [Expo](https://expo.io/learn) app and scan the QR code that appears on the screen
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
