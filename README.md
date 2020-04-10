@@ -6,7 +6,7 @@
 DevRadar
 </h1>
 
-<p align="center">The repository of a mobile application that allows you to find developers who use the same technologies in a nearby area and the web version where you can register them, built in an Omnistack Week</p>
+<p align="center">The repository of a mobile application that allows you to find developers who use the same technologies in a nearby area and the web version where you can register them, built in an OmniStack Week</p>
 
 <div>
   <img src="https://drive.google.com/uc?id=1l8PA4WNVOnggmBRluSosiGaPSE8UAivv" alt="demo-web" width="100%">
