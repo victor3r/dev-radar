@@ -2,7 +2,7 @@
 DevRadar
 </h1>
 
-<p align="center">The repository of a mobile application that allows you to find developers who use the same technologies in a nearby area and the web version where you can register them, built in an OmniStack Week</p>
+<p align="center">The monorepo of a mobile application that allows you to find developers who use the same technologies in a nearby area and the web version where you can register them, built in an OmniStack Week</p>
 
 <div>
   <img src="https://lh3.googleusercontent.com/z7psRLGFF_UiKXTpJk7qq3ym0WC9RZMdX9o8N8olVjtwReHVDQx7-mQkt3wMMCU-UcFY7XOpYyLvKgZMjg8EM2iMfneLba9bTVSXE8f93ZhOSdVSLOjI7nPucW39wpJQWicoAtwlNeekOvq67fVta7F0LaMZ2yVU_eVtWYANehcdk9i5-AwahiY43GsA9UtzmeSQT_N_E0L5hzc-EGdY1PT55V0UJnZuZNABW7kk-GG9t9fYJR_KpS1iqqHTdM3q5R2zITiAf8rjsfrBFfSACqCUEEhjwG6xWZGdDDMy3qei7w3tC34MtTn_Yz504Y7GRIvfPiIMSJ4Feo758-4WgyQ4X-P-3K2EzmweariY-pPSCmlmtyCY8pvu6-m1CTtEGW1wy8CFcgKVmdEFlGfhD0ZMTsEoAOm2PnoRQzR2HQaH9qe4wZ1tdmK0HQrHzf0tdtbelTYZmY7calnpLzl4sNi7-X_Mw_G-iO_H6ICw7mull_fBim9c8Gtt-BBlJ1T8kZ4oTzGdWaJdLDeQNyuxSujLzOzad3QoNRUPs6E2RqqrVTGYBOZSDt17FqTzQ9T9yNWSN4NgWRjPoSPjzPe7tSgG8CYhV483lh1lk37fzu5gojZqrxqmMf_hS_ySmSqrEsmEOuZYRVi38OJG9vlScmUuELfeLA1oavxLSmmNEhwDdQLSiwvJmvmyaXeyuKwX_IHrRxzJ-mKjO2-ZMuBPvKuQtxLieIk8eaS49BI2wfkKOBiQYQd3QA=w1280-h598-no" alt="demo-web" width="100%">
