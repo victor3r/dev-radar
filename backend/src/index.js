@@ -35,4 +35,4 @@ app.use(routes);
 
 // MongoDB (Não-relacional)
 
-server.listen(3333);
+server.listen(process.env.PORT || 3333);
