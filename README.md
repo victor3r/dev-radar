@@ -40,7 +40,7 @@ This app features all the latest tools and practices in mobile development!
 
 1. Move yourself to the web folder: `cd web`
 2. Run `yarn` to install dependencies<br />
-3. Create a .env file and add the API url connection in REACT_APP_API_URL field
+3. Create a `.env` file and add the API url connection in REACT_APP_API_URL field
 4. Run `yarn start` to start the web application
 
 ### Getting started with the mobile app
